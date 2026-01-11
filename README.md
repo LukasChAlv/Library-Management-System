@@ -1,34 +1,24 @@
-Library Management System
+# Library Management System
 
 Academic C++ project developed as part of the Computer Engineering program at UDELAR (Faculty of Engineering, Uruguay).
 
-This project implements a console-based library management system, focusing on modular design, data structures, and clean code practices.
+This project implements a console-based library management system with a focus on modular design, data structures, and clean code practices.
 
-Features
+## Features
+- Management of books, users, and loans
+- Borrowing and returning system
+- Search functionality
+- Modular C++ design using header and source files
 
-Management of books, users, and loans
+## Project Structure
+- include/ : Header files
+- src/ : Source code
+- test/ : Test files
+- Makefile : Build configuration
 
-Borrowing and returning system
+## Requirements
+- C++ compiler (C++11 or newer)
+- GNU Make
 
-Search functionality
-
-Modular C++ design using header and source files
-
-Project Structure
-
-include: header files
-
-src: source code
-
-test: test files
-
-Makefile: build configuration
-
-Requirements
-
-C++ compiler (C++11 or newer)
-
-GNU Make
-
-Notes
+## Notes
 This project was developed for academic purposes. Some inline comments are written in Spanish.
